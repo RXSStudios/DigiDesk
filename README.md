@@ -44,34 +44,3 @@ Access frequently used resources quickly
 Stay organized without any learning curve
 
 It’s a desk, not a feature overload.
-
-📦 Installation & First-Time Setup (Important)
-
-Windows may show a warning when you open new unsigned EXE files.
-Here’s how to run DigiDesk safely:
-
-🛠 Option 1 — Allow From the Defender Pop-Up
-
-When the Windows Defender SmartScreen pop-up appears:
-
-Click More Info
-
-Press Run Anyway
-
-That’s it.
-
-🛠 Option 2 — Add DigiDesk as an Exclusion (Recommended)
-
-Open Windows Security
-
-Go to Virus & Threat Protection
-
-Click Manage Settings
-
-Scroll down to Exclusions
-
-Click Add or remove exclusions
-
-Add your entire DigiDesk folder (where the EXE is located)
-
-After this, DigiDesk will run smoothly without any interruptions.
